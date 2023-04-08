@@ -1,5 +1,5 @@
 # Unknown Video Game Title
 
-Here is where my personal video game I am working on with 4 other people will be updated and backed up. 
+Video Game Script backed up. Working with 4 other friends to make a part game in our free time
 
 @2023 All Rights Reserved.
